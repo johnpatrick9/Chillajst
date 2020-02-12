@@ -1,7 +1,7 @@
 {
-    "name": "eMbeta Cloud",
-    "description": "Directly upload files to Cloud",
-    "repository": "https://github.com/Mrigank11/embetacloud",
+    "name": "Bjamec",
+    "description": "upload,
+    "repository": "https://github.com/johnpatrick9/Chillajst",
     "env": {
         "GOOGLE_CLIENT_ID": {
             "description": "Google Project's Client ID"
