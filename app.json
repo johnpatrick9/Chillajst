@@ -1,6 +1,6 @@
 {
     "name": "Bjamec",
-    "description": "upload,
+    "description": "upload",
     "repository": "https://github.com/johnpatrick9/Chillajst",
     "env": {
         "GOOGLE_CLIENT_ID": {
